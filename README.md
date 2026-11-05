@@ -40,7 +40,7 @@ ict-certifications/
 │   ├── 浪潮 ICCA→ICCP→ICCE 三级跃迁.md
 │   ├── 迈普 MPNA→MPNP→MPIE 三级贯通.md
 │   └── 锐捷 RGSA→RGSP→RGSE 全链路实战.md
-├── 软考/                            # 4 篇
+├── 软考/                            # 5 篇
 │   ├── 数据库系统工程师（中级）.md
 │   ├── 网络工程师（中级）.md
 │   ├── 软件设计师（中级）.md
