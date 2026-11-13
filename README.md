@@ -142,6 +142,12 @@ ict-certifications/
 
 - [《系统架构设计师（高级）》](<./软考/系统架构设计师（高级）.md>)
 
+## 请我喝杯咖啡
+
+|     微信赞赏码     |       支付宝        |       支付宝红包        |
+| :----------------: | :-----------------: | :-----------------: |
+| <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
+
 ## 协议（CC BY 4.0）
 
 ### 协议摘要
